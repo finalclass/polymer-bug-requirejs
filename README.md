@@ -4,4 +4,4 @@ run:
 node app.js
 ```
 
-and open browser on http://localhost:3000
+and open a browser on http://localhost:3000
