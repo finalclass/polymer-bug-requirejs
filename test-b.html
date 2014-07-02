@@ -1,0 +1,12 @@
+<link rel="import" href="../bower_components/polymer/polymer.html" />
+
+<polymer-element name="test-b">
+  <script>
+    require(['test-b-js'], function (module) {
+      Polymer('test-b', module);
+    });
+  </script>
+  <template>
+    B
+  </template>
+</polymer-element>
